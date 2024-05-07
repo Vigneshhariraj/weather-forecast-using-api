@@ -70,13 +70,3 @@ button:hover {
     color: #666;
     font-size: 16px; /* Increase font size */
 }
-/*----------------copyright-----------*/
-.copyright{
-    width: 100%;
-    text-align: center;
-    padding: 30px;
-    color: #fff;
-    background: #262626;
-    font-weight: 300;
-    margin-top: 365px;
- }
